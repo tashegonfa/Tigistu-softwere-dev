@@ -9,3 +9,4 @@ for name, balance in customers:
         tier = "Basic"
 
     print(f"{name}: {tier} ({balance} ETB)")
+    
